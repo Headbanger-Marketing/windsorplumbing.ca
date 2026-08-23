@@ -1,2 +1,25 @@
 # Windsor Plumbing
-HVAC services in Ontario.
+
+> Windsor Plumbing is a local HVAC company serving Windsor, Essex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 708-7480  |  Email: contact@windsorplumbing.ca  |  Website: https://windsorplumbing.ca
+
+## Key pages
+
+- [Home](https://windsorplumbing.ca/): Windsor Plumbing homepage with service overview and FAQ
+- [About](https://windsorplumbing.ca/about/): About the company and service area
+- [Contact](https://windsorplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://windsorplumbing.ca/services/water-heaters/): Water Heaters in Windsor, Ontario
+- [Drain Cleaning](https://windsorplumbing.ca/services/drain-cleaning/): Drain Cleaning in Windsor, Ontario
+- [Repiping](https://windsorplumbing.ca/services/repiping/): Repiping in Windsor, Ontario
+- [Fixtures & Toilets](https://windsorplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Windsor, Ontario
+- [Leak Detection & Repair](https://windsorplumbing.ca/services/leak-detection/): Leak Detection & Repair in Windsor, Ontario
+- [Sump Pumps & Backwater](https://windsorplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Windsor, Ontario
+- [Water Softeners & Filtration](https://windsorplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Windsor, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Windsor are answered on the homepage.
