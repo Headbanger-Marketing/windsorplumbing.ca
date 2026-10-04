@@ -1,25 +1,27 @@
 # Windsor Plumbing
 
-> Windsor Plumbing is a local HVAC company serving Windsor, Essex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+> Windsor Plumbing requests: Water Heaters, Drain Cleaning, Repiping. Describe the job and request a quote online.
 
-Phone: (548) 708-7480  |  Email: contact@windsorplumbing.ca  |  Website: https://windsorplumbing.ca
+Email: contact@windsorplumbing.ca  |  Website: https://windsorplumbing.ca
+
+Request locations: Windsor, LaSalle, Tecumseh, Amherstburg, Lakeshore, Essex, Leamington. Coverage and availability require provider confirmation.
 
 ## Key pages
 
-- [Home](https://windsorplumbing.ca/): Windsor Plumbing homepage with service overview and FAQ
-- [About](https://windsorplumbing.ca/about/): About the company and service area
-- [Contact](https://windsorplumbing.ca/contact/): Request a free quote or service call
+- [Home](https://windsorplumbing.ca/): Service request overview and equipment guidance
+- [About](https://windsorplumbing.ca/about/): Website and inquiry process
+- [Contact](https://windsorplumbing.ca/contact/): Submit a service inquiry
 
 ## Services
 
-- [Water Heaters](https://windsorplumbing.ca/services/water-heaters/): Water Heaters in Windsor, Ontario
-- [Drain Cleaning](https://windsorplumbing.ca/services/drain-cleaning/): Drain Cleaning in Windsor, Ontario
-- [Repiping](https://windsorplumbing.ca/services/repiping/): Repiping in Windsor, Ontario
-- [Fixtures & Toilets](https://windsorplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Windsor, Ontario
-- [Leak Detection & Repair](https://windsorplumbing.ca/services/leak-detection/): Leak Detection & Repair in Windsor, Ontario
-- [Sump Pumps & Backwater](https://windsorplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Windsor, Ontario
-- [Water Softeners & Filtration](https://windsorplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Windsor, Ontario
+- [Water Heaters](https://windsorplumbing.ca/services/water-heaters/): Water Heaters guidance and requests in Windsor, Ontario
+- [Drain Cleaning](https://windsorplumbing.ca/services/drain-cleaning/): Drain Cleaning guidance and requests in Windsor, Ontario
+- [Repiping](https://windsorplumbing.ca/services/repiping/): Repiping guidance and requests in Windsor, Ontario
+- [Fixtures & Toilets](https://windsorplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets guidance and requests in Windsor, Ontario
+- [Leak Detection & Repair](https://windsorplumbing.ca/services/leak-detection/): Leak Detection & Repair guidance and requests in Windsor, Ontario
+- [Sump Pumps & Backwater](https://windsorplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater guidance and requests in Windsor, Ontario
+- [Water Softeners & Filtration](https://windsorplumbing.ca/services/water-softeners/): Water Softeners & Filtration guidance and requests in Windsor, Ontario
 
 ## FAQ
 
-Common questions about HVAC service in Windsor are answered on the homepage.
+Questions about plumbing requests in Windsor are addressed on the homepage.
